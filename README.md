@@ -1,5 +1,5 @@
 ### Create SqlLiteHelper Class
-=========================
+==============================
 The SQLiteOpenHelper methods  `onCreate` and `onUpgrade` are implemented.
  
 Setup
