@@ -1,7 +1,8 @@
-### Create SqlLiteHelper Class
-==============================
-The SQLiteOpenHelper methods  `onCreate` and `onUpgrade` are implemented.
- 
+### Create SqlLiteHelper Class 
+-----
+The SQLiteOpenHelper methods  `onCreate` and `onUpgrade` are implemented.  
+and 'CRUD functions' implemented to access SQLite table data to 'read,' 'insert,' 'update,' and 'delete'
+-----
 Setup
 -----
 
