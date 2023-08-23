@@ -1,3 +1,10 @@
+### Create SqlLiteHelper Class
+=========================
+The SQLiteOpenHelper methods  `onCreate` and `onUpgrade` are implemented.
+ 
+Setup
+-----
+
 ```kotlin
 data class User(
     val ID:Int,
@@ -59,4 +66,4 @@ class DbHelper(context: Context):SQLiteOpenHelper(context,DBNAME,null,VERSION) {
         return users
     }
 }
-'''
+```
